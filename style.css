@@ -33,7 +33,7 @@ body {
     font-size: 18vw;
     font-weight: 700;
     line-height: 1;
-    text-shadow: 0 0 20px rgb(3, 137, 21);
+    text-shadow: 0 0 50px rgb(3, 137, 21);
 }
 
 @media (max-width: 600px)  {
@@ -50,4 +50,5 @@ body {
         #clock {
             font-size: 12vw;
         }
+
     }
